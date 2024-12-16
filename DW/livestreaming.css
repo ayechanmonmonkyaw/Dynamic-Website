@@ -1,0 +1,19 @@
+body{
+    background-color: 	#b9e2f5;
+}
+.container{
+    margin-top: 5%;
+}
+h2{
+    margin-top: 5%;
+}
+p{
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 2;
+}
+img{
+    max-width: 300px;
+    height:auto;
+    border-radius: 25px;
+}
